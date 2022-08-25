@@ -15,6 +15,7 @@ class App extends Component {
       attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       url="https://daishi96.github.io/hungergamesIV/tiles/{z}/{x}/{y}.png"
 
+
     />
   </MapContainer>
 );
